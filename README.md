@@ -1,0 +1,3 @@
+"# anotadorDeTruco" 
+"# anotadorDeTruco" 
+"# anotadorDeTruco" 
